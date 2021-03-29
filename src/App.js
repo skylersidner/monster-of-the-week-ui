@@ -1,9 +1,9 @@
 import './App.css';
-import Dashboard from './common/Dashboard';
+import Routes from './Routes';
 
 function App() {
   return (
-    <Dashboard />
+    <Routes />
   )
 }
 

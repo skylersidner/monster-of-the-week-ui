@@ -2,23 +2,27 @@
 const PRIMARY_MENU_LINKS = {
   dashboard: {
     name: 'Dashboard',
-    link: ''
+    link: '/'
+  },
+  mysteries: {
+    name: 'Mysteries',
+    link: '/mysteries'
   },
   monsters: {
     name: 'Monsters',
-    link: ''
+    link: '/monsters'
   },
-  Minions: {
+  minions: {
     name: 'Minions',
-    link: ''
+    link: '/minions'
   },
   locations: {
     name: 'Locations',
-    link: ''
+    link: '/locations'
   },
   bystanders: {
     name: 'Bystanders',
-    link: ''
+    link: '/bystanders'
   },
 }
 
